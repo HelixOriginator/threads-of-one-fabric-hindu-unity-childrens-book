@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/threads-of-one-fabric-hindu-unity-childrens-book/sitemap.xml
